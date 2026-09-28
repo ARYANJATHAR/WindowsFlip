@@ -18,6 +18,16 @@ Hold **Alt** and click Chrome's title bar to flip from Chrome to a note. Write, 
 - DPI-aware overlay tracking
 - SQLite storage in the user's application data directory
 
+## Demo
+
+Watch the recorded Chrome-to-note flip demo:
+
+![FlipNoteChrome demo](demo/demo-preview.gif)
+
+[Download / view the demo video](demo/demo.mp4)
+
+The demo shows the main interaction: flipping from Chrome to the writing surface, editing a note, and returning to Chrome.
+
 ## Requirements
 
 - Windows 10 or Windows 11

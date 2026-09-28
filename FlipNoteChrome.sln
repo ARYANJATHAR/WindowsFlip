@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipNoteChrome.Core", "FlipNoteChrome.Core\FlipNoteChrome.Core.csproj", "{412B59DF-7A6C-45D5-B2FB-727B5D0567A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipNoteChrome.UI", "FlipNoteChrome.UI\FlipNoteChrome.UI.csproj", "{28763C8B-41D3-4D43-A16A-2CE7FDD75676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412B59DF-7A6C-45D5-B2FB-727B5D0567A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412B59DF-7A6C-45D5-B2FB-727B5D0567A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412B59DF-7A6C-45D5-B2FB-727B5D0567A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412B59DF-7A6C-45D5-B2FB-727B5D0567A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28763C8B-41D3-4D43-A16A-2CE7FDD75676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28763C8B-41D3-4D43-A16A-2CE7FDD75676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28763C8B-41D3-4D43-A16A-2CE7FDD75676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28763C8B-41D3-4D43-A16A-2CE7FDD75676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
